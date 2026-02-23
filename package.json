@@ -1,0 +1,11 @@
+{
+  "name": "favicon-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "favicon.js",
+  "dependencies": {
+    "sharp": "^0.34.5"
+    
+  }
+}
